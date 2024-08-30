@@ -7,6 +7,9 @@ In this project, I conducted a comprehensive data analysis of athletes participa
 Python3, Google Colabs, Pandas, Seaborn
 
 ## Visuals
+![image](https://github.com/user-attachments/assets/4d18d3c0-978c-49af-bb36-289b08c43531)
+![image](https://github.com/user-attachments/assets/214d6b72-e46e-43ea-aeb7-4ded12629686)
+![image](https://github.com/user-attachments/assets/a256c15a-3ecb-407b-ba26-ba2aa4ed3c71)
 ![image](https://github.com/user-attachments/assets/5418fbce-e9ef-40bd-aebd-638f08992a6f)
 
 ## Conclusions

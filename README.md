@@ -12,5 +12,5 @@ Python3, Google Colabs, Pandas, Seaborn
 ![image](https://github.com/user-attachments/assets/a256c15a-3ecb-407b-ba26-ba2aa4ed3c71)
 ![image](https://github.com/user-attachments/assets/5418fbce-e9ef-40bd-aebd-638f08992a6f)
 
-## Conclusions
+## Conclusion
 This analysis of Paris Olympic athletes provided valuable insights into the demographics and characteristics of participants, highlighting trends in athlete height, language diversity, and geographical representation. The visualizations and findings from this project can inform decisions related to athlete preparation, team composition, and diversity initiatives in future sporting events. By applying robust data cleaning, exploration, and visualization techniques, I demonstrated my proficiency in transforming raw data into meaningful insights, which is crucial for driving data-informed decisions in any analytical role.
